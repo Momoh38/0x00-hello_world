@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "holberton.h"
+#include "main.h"
 /**
  *_puts_recursion - putchar function
  *@s: input
