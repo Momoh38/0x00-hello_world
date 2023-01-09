@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdlib.h>
 #include "main.h"
 /**
 *
@@ -8,7 +8,7 @@
 * Return: pointer
 */
 
-char *create_array(unsigned int size, char c);
+char *create_array(unsigned int size, char c)
 {
 	char *S;
 	unsigned int num;
@@ -21,7 +21,7 @@ char *create_array(unsigned int size, char c);
 	{
 		return NULL;	
 	}
-for (num = 0; S < size; S++)
+for (num = 0; num < size; num++)
 	{
 		S[num] = c;
 	}
