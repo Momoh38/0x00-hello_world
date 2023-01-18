@@ -1,1 +1,1 @@
-This is a readme message that is supposed to explain what is happenning in this repo: 
+This is a readme file that will explain the point of this repo
