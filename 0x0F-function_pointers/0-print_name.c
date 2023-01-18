@@ -8,9 +8,7 @@
 
 void print_name(char *name, void (*f)(char *));
 {
-	char *name
-	void print (name)
-		{_putchar("abdul")}
-
+	void print(char *name)
+		{putchar("%s/n", name};
 	return (print);
 }
