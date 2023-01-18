@@ -12,5 +12,5 @@ void print_name(char *name, void (*f)(char *));
 	void print (name)
 		{_putchar("abdul")}
 
-
+	return (print);
 }
